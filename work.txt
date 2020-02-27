@@ -2,3 +2,4 @@ work1 master
 <<<<<<< HEAD
 aaabbbbb
 3a
+6c
